@@ -4,5 +4,5 @@ adding some more content into the file inorder to check the chnages
 
 making changes in the remote repository inorder to check the status of pull command in GIT
 
-direct committing the changes with "-am" option
+
 
