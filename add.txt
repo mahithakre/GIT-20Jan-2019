@@ -6,4 +6,3 @@ making changes in the remote repository inorder to check the status of pull comm
 
 direct committing the changes with "-am" option
 
-checking the difference "diff"
